@@ -62,4 +62,5 @@ For example, the text file starts with Arad which has a heuristic of 366. It is 
 ##### 4.6 SAMPLE OUTPUT
 
 Path: Arad -> Sibiu -> Rimnicu -> Pitesti -> Bucharest
+
 Total distance: 418 km
